@@ -68,12 +68,10 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
-# Learn More
+# List of Completed Features
 
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+   - Flip Card Mechanism: Implemented a smooth card flip animation.
+   - Responsive Grid Layout: Cards are displayed in a 4x4   grid, adapting to different screen sizes.
+   - Leaderboard: Displays the top scores of players.
+   - Timer: Tracks the time taken to complete the game.
+   - Move Counter: Counts the number of moves made by the player.
