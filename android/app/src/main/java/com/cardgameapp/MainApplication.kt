@@ -1,4 +1,4 @@
-package com.unistyleissue
+package com.cardgameapp
 
 import android.app.Application
 import com.facebook.react.PackageList
