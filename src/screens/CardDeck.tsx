@@ -107,7 +107,7 @@ const CardDeck: React.FC = () => {
         data={shuffledCards}
         renderItem={renderItem}
         keyExtractor={item => item.id.toString()}
-        numColumns={3}
+        numColumns={4}
         contentContainerStyle={styles.grid}
       />
       <Button title="Reset Game" onPress={handleReset} />
